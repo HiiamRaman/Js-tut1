@@ -1,4 +1,4 @@
-// here we are going to explain about data types in JS
+// here we are going to explain about datatypes in JS
 "use strict"; //this will help you to use the older code of JS
 console.log (7+9) 
 //types of data type
