@@ -1,1 +1,1 @@
-console.log("Hello");
+// lets discuss  about Numbers and Scores in JS
